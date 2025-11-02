@@ -1,0 +1,21 @@
+{
+  "name": "Facillit Hub",
+  "short_name": "FacillitHub",
+  "description": "O ecossistema digital inteligente para organização, produtividade e educação.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#190894",
+  "theme_color": "#190894",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
